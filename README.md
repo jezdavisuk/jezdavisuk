@@ -1,4 +1,4 @@
-## Welcome, one and all. I'm currently working to develop an application that teaches children in the UK how to use a Japanese Soroban abacus. The objective is to create a free resource that gives students a chance to practise basic mental arithmetic. 
+## Welcome, one and all. I'm currently working to develop an application that teaches children in the UK how to use a Japanese Soroban abacus. The objective is to create a free resource that gives students the chance to practise basic mental arithmetic. 
 
 <!--
 **jezdavisuk/jezdavisuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
