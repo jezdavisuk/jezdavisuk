@@ -6,13 +6,11 @@ My name is Jez. In Spring 2024, I made a decision to train as a Java developer. 
 
 ----------------------------------------------------------------------------
 
-I have full-stack experience. My primary language is Java but I have worked with JavaScript and Python. I have structured RESTful APIs within the Spring Framework, relying on JUnit and Mockito for unit and integration testing. I have deployed applications to a remote database instance hosted within AWS, containerised with Docker, and implementing the Elastic Beanstalk management tool to address issues of load balancing and scalability.
+I have full-stack experience. My primary language is Java but I have worked with JavaScript and Python. I have structured RESTful APIs within the Spring Framework, relying on JUnit and Mockito for unit and integration testing. I have deployed applications to a remote database instance hosted within AWS, containerised with Docker, and implemented the Elastic Beanstalk management tool to address issues of load balancing and scalability.
 
 At the frontend, I have been working within Android Studio to craft an engaging UI experience allowing users a means to access the API directly. Adhering to the MVVM architectural pattern, I have implemented the Retrofit dependency to manage client-side requests to the API, the RecyclerView library for efficient View caching leading to benefits in performance and power consumption, and the Parcelable interface for more efficient serialisation and transmission of data between activities with intents. Within activities themselves, I continually adjust the XML resource layout files to give a clean and intuitive presentation that allows the users to navigate the API seamlessly.
 
-Right at the backend, I have sought to hone my skills in database design and management building familiarity with PostgreSQL, via pgAdmin or the psql CLI. To that end, I have experimented with two approaches; first working at a low-level via the JDBC API building discrete queries in SQL, and secondly entrusting object mapping to Hibernate within the significantly-abstracted Spring Data JPA.
-
-I have largely worked from a Test-Driven Development perspective, working with other Java developers in a Pair Programming dynamic.
+Transitioning to the backend, I have sought to hone my skills in database design building familiarity with PostgreSQL, via pgAdmin or the psql CLI. To that end, I have experimented with two approaches; first working at a low-level via the JDBC API building discrete queries in SQL, and secondly entrusting object mapping to Hibernate within the significantly-abstracted Spring Data JPA.
 
 You can reach me...
 
