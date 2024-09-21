@@ -1,10 +1,14 @@
 ## Welcome -- ยินดีต้อนรับ -- Witaj -- Benvinguts -- مرحباً -- स्वागत -- 欢迎
 
+### About me
+
 My name is Jez. In Spring 2024, I made a decision to train as a Java developer. As I came to the end of a degree in Mathematics, I needed a new technical challenge and, from previous experience, software development seemed the perfect fit. I decided to take the plunge and have not once looked back. Fast-forward to the present day and I am in the final project stage of a 13-week full-time bootcamp-style course in Java development, curated and led by the team at Northcoders from their Manchester office. I have covered so much ground and learnt so much; it would mean so much to find an opportunity to embed those skills in a professional context. If you need a candidate with a strong background in Object-Oriented Programming and experience building fully-fledged Java applications using Spring for HTTP backends and Android for frontends, I might just be your man.
 
 ----------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------
+
+### What I do
 
 I have full-stack experience. My primary language is Java but I have worked with JavaScript and Python. I have structured RESTful APIs within the Spring Framework, relying on JUnit and Mockito for unit and integration testing. I have deployed applications to a remote database instance hosted within AWS, containerised with Docker, and implemented the Elastic Beanstalk management tool to address issues of load balancing and scalability.
 
