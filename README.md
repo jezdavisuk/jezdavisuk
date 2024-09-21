@@ -20,6 +20,12 @@ At the frontend, I have been working within Android Studio to craft an engaging 
 
 Transitioning to the backend, I have sought to hone my skills in database design building familiarity with PostgreSQL, via pgAdmin or the psql CLI. To that end, I have experimented with two approaches; first working at a low-level via the JDBC API building discrete queries in SQL, and secondly entrusting object mapping to Hibernate within the significantly-abstracted Spring Data JPA.
 
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+
+### Contact me
+
 You can reach me...
 
 ... by Email           📧  jezdavisuk@gmail.com
